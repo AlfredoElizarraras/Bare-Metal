@@ -1,6 +1,22 @@
-# Bare Metal
+<h1 align="center">
+ Bare Metal
+</h1>
 
-> This project is completed by Carlos Santamaría and Oscar Alfredo Gómez Elizarrarás, in partial requirements of the Microverse cirriculum. 
+
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Prerequisites](#prerequisites)
+* [Install](#install)
+* [Authors](#authors)
+* [Contributing](#contributing)
+* [Acknowledgments](#acknowledgments)
+* [License](#license)
+
+## About the project
+
+> This application stores users, it's intention is to practice with rails forms, validations, and models.
 
 ---
 
@@ -11,19 +27,21 @@
 
 ---
 
-### Prerequisites
+## Prerequisites
 
 - Ruby 2.7.1
 
 
-### Install
+## Install
 
 `git clone https://github.com/AlfredoElizarraras/Bare-Metal.git'
 
-#### On command line:
+### On the command line:
 - `bundler install`
 
 ## Authors
+
+> This project is completed by Carlos Santamaría and Oscar Alfredo Gómez Elizarrarás, in partial requirements of the Microverse curriculum.<br>
 
 👤 **Carlos Santamaria**
 
@@ -39,13 +57,13 @@
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/AlfredoElizarraras/Bare-Metal/issues).
 
-## Show your support
+### Show your support
 
 Give a ⭐️ if you like this project!
 
@@ -56,7 +74,7 @@ Give a ⭐️ if you like this project!
 
 ---
 
-## 📝 License
+## License
 
 This project is [MIT](https://github.com/AlfredoElizarraras/Bare-Metal/blob/master/LICENSE) licensed.
 
